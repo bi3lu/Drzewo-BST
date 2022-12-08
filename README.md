@@ -16,9 +16,9 @@ Możemy wykonywać na nim proste operacje takie jak wstawianie nowych elementów
 
 -metoda Successor zwraca referencje do wartości (obiektu), która jest bezpośrednim następcą podanej wartości zawierającej się w drzewie
 
-klasa Leaf
-Left jest to lewy syn danego liścia
-Right jest to prawy syn danego liścia
-Key jest to wartość całkowita danego liścia
+klasa Leaf:
+-Left jest to lewy syn danego liścia
+-Right jest to prawy syn danego liścia
+-Key jest to wartość całkowita danego liścia
 
 program nie posiada obsługi wyjątków
